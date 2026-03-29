@@ -15,7 +15,6 @@ This repository contains my work completed during the **Machine Learning Interns
 ## 📂 Project Structure
 
 Certify_Tech_Intern/
-|__ .venv
 │
 ├── Level 1/
 │   ├── Task1/
@@ -35,7 +34,6 @@ Certify_Tech_Intern/
 │
 └── Level 3/
     └── Fake_News_Detector/
-
 
 ---
 
