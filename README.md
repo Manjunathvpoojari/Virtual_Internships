@@ -1,10 +1,10 @@
-# 🚀 Virtual Internships Details
+# Virtual Internships Details
 
 This repository showcases my work completed across multiple **Virtual Internship Programs** in domains like **Machine Learning, Web Development, Python, Frontend Development, and Java Programming**.
 
 ---
 
-## 📌 Internships Covered
+## Internships Covered
   
 - ☕ CodSoft – Java Programming Internship  
 - 🤖 Certify Technology – Machine Learning Internship  
