@@ -65,4 +65,7 @@ Virtual_Internships/
 
 ```
 
+
+### Note A detailed overview of the internships is present in susbsequent folders
+
 ---
