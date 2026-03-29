@@ -13,6 +13,7 @@ This repository contains my work completed during the **Machine Learning Interns
 ---
 
 ## 📂 Project Structure
+```
 
 Certify_Tech_Intern/
 │
@@ -36,6 +37,8 @@ Certify_Tech_Intern/
 │
 └── Level3/
     └── Fake_News_Detector/
+
+```
 
 ---
 
