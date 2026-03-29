@@ -100,6 +100,6 @@ This repository represents **Slab 2** work for the CodexIntern Frontend program.
 
 Two approaches were explored:
 - A **guided, tool-assisted** approach using Lovable + shadcn (CodeNINJA actual)
-- A **self-built** approach using raw React and Tailwind (MY try)
+- A **self-built** approach using raw React and Tailwind (MY try).
 
 ---
