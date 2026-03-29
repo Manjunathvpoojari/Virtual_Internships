@@ -16,7 +16,9 @@ This repository contains my work completed during the **Machine Learning Interns
 
 Certify_Tech_Intern/
 │
-├── Level 1/
+├── .venv/
+│
+├── Level1/
 │   ├── Task1/
 │   │   ├── Challenge1_Housing/
 │   │   └── Challenge2_Titanic/
@@ -24,7 +26,7 @@ Certify_Tech_Intern/
 │   └── Task2/
 │       └── Spam_Email_Classifier/
 │
-├── Level 2/
+├── Level2/
 │   ├── Task1/
 │   │   ├── Challenge1_Insurance/
 │   │   └── Challenge2_Crime_Prediction/
@@ -32,7 +34,7 @@ Certify_Tech_Intern/
 │   └── Task2/
 │       └── Customer_Segmentation/
 │
-└── Level 3/
+└── Level3/
     └── Fake_News_Detector/
 
 ---
